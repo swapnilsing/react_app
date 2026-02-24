@@ -507,11 +507,17 @@ Login → List → Details (Chart + Map) → Capture Photo
 Login Page:
 <img width="1578" height="542" alt="Screenshot 2026-02-24 171335" src="https://github.com/user-attachments/assets/f5787afe-daa0-4e6a-8409-4a875923a0f4" />
 
+
+
 Main Website:
 <img width="1655" height="636" alt="Screenshot 2026-02-24 171305" src="https://github.com/user-attachments/assets/3825738c-d7a7-44e8-8bfc-cc5d8e2795b3" />
 
+
+
 Graph:
 <img width="1082" height="679" alt="Screenshot 2026-02-24 171238" src="https://github.com/user-attachments/assets/5cc7b927-8b89-4c59-8e74-3b1afd63b255" />
+
+
 
 Map:
 <img width="1064" height="497" alt="Screenshot 2026-02-24 171215" src="https://github.com/user-attachments/assets/7bdb0715-fa3c-4d5d-a540-eee195faa34e" />
@@ -523,4 +529,5 @@ Map:
 ## 👨‍💻 Author
 
 SWAPNIL SINGH
+
 ReactJS JOTTISH Internship Assignment
